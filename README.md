@@ -2,7 +2,7 @@
 
 Projet réalisé par Wendy Alejandra Corredor Morales dans le cadre du Master 2 IMSD. 
 
-## Idée génerale.
+## Idée générale.
 
 La société MowItNow a décidé de développer une tondeuse à gazon automatique,
 destinée aux surfaces rectangulaires.

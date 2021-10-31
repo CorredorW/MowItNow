@@ -1,4 +1,4 @@
-# MowItNow -- Projet Scala 202/2022
+# MowItNow -- Projet Scala 2021/2022
 
 Projet réalisé par Wendy Alejandra Corredor Morales dans le cadre du Master 2 IMSD. 
 
